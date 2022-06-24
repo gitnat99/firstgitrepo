@@ -1,2 +1,2 @@
-const a=50;
-const b=55;
+
+const c=666;
