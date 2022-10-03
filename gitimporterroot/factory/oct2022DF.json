@@ -1,0 +1,9 @@
+{
+	"name": "oct2022DF",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1697094d-437c-4997-9974-2f8d2b8f9746",
+		"tenantId": "fcf67057-50c9-4ad4-98f3-ffca64add9e9"
+	}
+}
